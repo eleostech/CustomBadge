@@ -1,0 +1,19 @@
+{
+  "name": "CustomBadge",
+  "version": "1.0",
+  "summary": "A simple library for adding badges to UIButtons",
+  "homepage": "https://github.com/ckteebe/CustomBadge",
+  "license": "MIT",
+  "authors": {"ckteebe":"ckteebe"},
+  "source": {
+    "git": "git@github.com:ckteebe/CustomBadge.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": [
+    "Classes"
+   ],
+  "requires_arc": true
+}
